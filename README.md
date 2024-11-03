@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hey there! I’m **Iliya**, also known as @NIPROOT.
 
-<!--
-**NIPROOT/NIPROOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m a 16-year-old coding enthusiast from Iran with a passion for both software and hardware!
 
-Here are some ideas to get you started:
+🌱 I’ve got skills in Python, C, JavaScript, PHP, Go, Ruby, HTML, CSS, Linux, and web/network penetration testing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I’m on the lookout for epic collaboration opportunities, especially in web dev and cybersecurity!
+
+📫 Hit me up: You can reach me on [LinkedIn](#) or [Twitter](#).
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love to code late at night—there’s something magical about those midnight coding sessions!
