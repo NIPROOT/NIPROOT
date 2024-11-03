@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NIPROOT</h1>
-<h3 align="center">ROOT ACC FOR EVRITHING</h3>
+<h3 align="center">Root access for everything</h3>
 
 
 # 💫 About Me:
