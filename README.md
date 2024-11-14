@@ -13,7 +13,6 @@
 
 ⚡ Fun fact: I love to code late at night—there’s something magical about those midnight coding sessions!
 
-[![](https://visitcount.itsvg.in/api?id=Pytholearn&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 
