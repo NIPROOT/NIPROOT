@@ -14,22 +14,6 @@
 ⚡ Fun fact: I love to code late at night—there’s something magical about those midnight coding sessions!
 
 
-## 🌐 Socials:
-
-
-
-
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -46,20 +30,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NIPROOT&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIPROOT&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-
-
----
-
-
-
-  
-
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/NIPROOT) 
-
-  
 
